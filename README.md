@@ -54,6 +54,7 @@ This repository includes a structured testing checklist that evaluates:
 
 ---
 
+<img width="1170" height="599" alt="image" src="https://github.com/user-attachments/assets/eff8be9a-1a69-42c3-8b59-9f2231c869ca" />
 
 
 ---
